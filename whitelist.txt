@@ -17,3 +17,6 @@ token.safebrowsing.apple
 gravatar.com
 s.shopify.com
 api.github.com
+
+# PuTTY
+the.earth.li
